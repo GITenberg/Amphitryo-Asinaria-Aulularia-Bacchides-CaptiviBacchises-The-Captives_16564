@@ -1,0 +1,43 @@
+_repo: Amphitryo-Asinaria-Aulularia-Bacchides-CaptiviBacchises-The-Captives_16564
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Nixon, Paul
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '6792'
+    url: http://www.gutenberg.org/2009/agents/6792
+    wikipedia: http://library.bowdoin.edu/arch/mss/png.shtml
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plautus, Titus Maccius
+    alias: Plautus, Marcus Accius
+    birthdate: -254
+    deathdate: -184
+    gutenberg_agent_id: '2406'
+    url: http://www.gutenberg.org/2009/agents/2406
+    wikipedia: http://en.wikipedia.org/wiki/Plautus
+description: ''
+gutenberg_issued: '2005-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16564'
+language:
+- en
+- la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin drama (Comedy)'
+- !lcsh 'Latin drama (Comedy) -- Translations into English'
+- !lcc 'PA'
+title: 'Amphitryo, Asinaria, Aulularia, Bacchides, Captivi
+
+  Amphitryon, The Comedy of Asses, The Pot of Gold, The Two
+
+  Bacchises, The Captives'
+url: http://www.gutenberg.org/ebooks/16564
